@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=ignorePunchHole-Picasso
+name=Ignore Punch Hole for Picasso
+version=v1.0
+versionCode=1
+author=Tanzi
+description=Pretend there are no punch holes in the status bar./假装屏幕上没有洞。
